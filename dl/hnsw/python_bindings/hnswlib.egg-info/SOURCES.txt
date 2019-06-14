@@ -1,0 +1,8 @@
+bindings.cpp
+setup.py
+hnswlib.egg-info/PKG-INFO
+hnswlib.egg-info/SOURCES.txt
+hnswlib.egg-info/dependency_links.txt
+hnswlib.egg-info/not-zip-safe
+hnswlib.egg-info/requires.txt
+hnswlib.egg-info/top_level.txt
