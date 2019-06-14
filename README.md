@@ -49,4 +49,5 @@ FaceFinal系统的后端系统，由Django框架编写。
 
 ## Author
 [zhaoyonghang](https://github.com/zhaoyonghang)
+
 [ty](https://github.com/tyIceStream)
