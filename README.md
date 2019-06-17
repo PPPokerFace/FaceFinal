@@ -27,6 +27,9 @@ FaceFinal系统的后端系统，由Django框架编写。
 - use the address: http://127.0.0.1:8000/
 - admin page: http://127.0.0.1:8000/admin
 
+## Model
+
+留坑
 
 ## Recent Update
 #### 2019.6.14
