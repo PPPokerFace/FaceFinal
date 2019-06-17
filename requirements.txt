@@ -4,5 +4,6 @@ torchvision
 opencv_python
 tqdm
 dlib
+git+git://github.com/sshwsfc/xadmin.git@django2
 pybind11
 setuptools
