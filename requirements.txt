@@ -1,0 +1,8 @@
+channels
+torch
+torchvision
+opencv_python
+tqdm
+dlib
+pybind11
+setuptools
